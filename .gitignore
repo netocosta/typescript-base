@@ -9,4 +9,9 @@ ormconfig.json
 dist
 
 uploads/*
+
 !uploads/.gitkeep
+!src/.gitkeep
+!src/config/.gitkeep
+!src/modules/.gitkeep
+!src/shared/.gitkeep
